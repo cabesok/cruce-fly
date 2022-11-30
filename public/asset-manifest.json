@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fdd028c1.css",
+    "main.js": "/static/js/main.4a2c2b35.js",
+    "static/js/787.11913226.chunk.js": "/static/js/787.11913226.chunk.js",
+    "static/media/NeueMachina-Regular.ttf": "/static/media/NeueMachina-Regular.4dc4b2a360a973d59975.ttf",
+    "static/media/NeueMachina-Bold.ttf": "/static/media/NeueMachina-Bold.e3f0d560c71e5363d34c.ttf",
+    "index.html": "/index.html",
+    "main.fdd028c1.css.map": "/static/css/main.fdd028c1.css.map",
+    "main.4a2c2b35.js.map": "/static/js/main.4a2c2b35.js.map",
+    "787.11913226.chunk.js.map": "/static/js/787.11913226.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdd028c1.css",
+    "static/js/main.4a2c2b35.js"
+  ]
+}
